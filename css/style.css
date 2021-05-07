@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+header{
+    background-color: blue;
+    display: flex;
+    padding: 10px 20px 10px 20px;
+}
+.cab{
+    padding: 10px 20px 10px 20px;
+}
+.login{
+    text-align:right;
+    bottom: 590px;
+    position:absolute;
+    right:60px
+}
+
+body{
+    background-color: rgb(238, 238, 238);
+}
+.main{
+    position: absolute;
+    left: 150px;
+    top: 150px;
+}
+.sign{
+    position: absolute;
+    left: 800px;
+    top: 120px;
+}
+.block{
+    display: block;
+    width: 150px;
+    border: nome;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.imgf{
+    position: absolute;
+    top: 534px;
+    width: 100px;
+    left: 200px;
+}
